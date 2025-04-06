@@ -23,3 +23,18 @@ go.work.sum
 
 # env file
 .env
+
+# IntelliJ IDEA
+.idea/
+*.iml
+/out/
+/target/
+*.iws
+*.ipr
+*.idea/workspace.xml
+*.idea/tasks.xml
+*.idea/dictionaries
+*.idea/shelf/
+*.idea/.gitignore
+*.idea/misc.xml
+*.idea/vcs.xml
